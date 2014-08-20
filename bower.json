@@ -1,0 +1,7 @@
+{
+  "name": "WebBlocks-wrapper-DataTables",
+  "version": "1.10.2",
+  "dependencies": {
+    "DataTables": "~1.10.2"
+  }
+}
